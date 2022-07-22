@@ -12,6 +12,10 @@ An AR adaptation based on little alchemy. Players start with basic elements and 
 - `ARFoundation` for image tracking
 - `DOTween` for moving gameObjects
 
+## Notes:
+Because of DMCA, we can't upload all the assets we used  
+Build version under: https://nextcloud.in.tum.de/index.php/s/ByM95zwoaLS3GZb
+
 ## Documentation
 https://aogao-kedoka.github.io/AR-Alchemy/
 
